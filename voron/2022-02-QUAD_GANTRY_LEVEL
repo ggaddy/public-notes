@@ -1,0 +1,46 @@
+# logs from attempting QUAD_GANTRY_LEVEL on Voron 2.4
+
+17:24:49 
+$ QUAD_GANTRY_LEVEL
+17:24:51 
+// probe at 50.000,25.000 is z=0.788473
+17:24:52 
+// probe at 50.000,25.000 is z=0.790973
+17:24:53 
+// probe at 50.000,25.000 is z=0.790973
+17:24:58 
+// probe at 50.000,275.000 is z=0.599723
+17:24:59 
+// probe at 50.000,275.000 is z=0.600973
+17:25:00 
+// probe at 50.000,275.000 is z=0.600973
+17:25:04 
+// probe at 300.000,275.000 is z=0.832223
+17:25:05 
+// probe at 300.000,275.000 is z=0.835973
+17:25:06 
+// probe at 300.000,275.000 is z=0.834723
+17:25:11 
+// probe at 300.000,25.000 is z=1.538473
+17:25:12 
+// probe at 300.000,25.000 is z=1.755973
+17:25:12 
+// Probe samples exceed tolerance. Retrying...
+17:25:13 
+// probe at 300.000,25.000 is z=1.888473
+17:25:14 
+// probe at 300.000,25.000 is z=2.005973
+17:25:14 
+// Probe samples exceed tolerance. Retrying...
+17:25:15 
+// probe at 300.000,25.000 is z=2.110973
+17:25:16 
+// probe at 300.000,25.000 is z=2.287223
+17:25:16 
+// Probe samples exceed tolerance. Retrying...
+17:25:16 
+// probe at 300.000,25.000 is z=2.508473
+17:25:17 
+// probe at 300.000,25.000 is z=2.634723
+17:25:17 
+!! Probe samples exceed samples_tolerance
